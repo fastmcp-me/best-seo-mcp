@@ -145,3 +145,18 @@ MCP servers eliminate the friction between your SEO tools and AI. Key benefits i
 **Pricing:** Free (requires Bing Webmaster Tools account)
 
 ---
+
+### [Manifold MCP](https://www.manifoldmcp.com)
+
+**Features:** Hosted remote MCP server for marketing data. No API keys of your own, pay per call. Works with Claude, ChatGPT, Cursor and other MCP clients over OAuth, or with an API key.
+
+**Capabilities:**
+* Keyword research, rankings and backlinks
+* SERP data and technical crawls
+* AI search visibility
+* Reddit and social data (TikTok, Instagram, YouTube, Facebook, LinkedIn, X)
+* Ad libraries and work emails
+
+**Pricing:** Pay per call. Free to start.
+
+---
