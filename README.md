@@ -131,6 +131,20 @@ MCP servers eliminate the friction between your SEO tools and AI. Key benefits i
 
 ---
 
+### [Site Insights by KKV Labs](https://www.kkvlabs.com/site-insights)
+
+**Features:** Hosted, read-only MCP server for Google Search Console and Google Analytics 4, with optional Bing Webmaster Tools. One Google sign-in covers many sites; each GA4 property is paired with its Search Console site. Paste `https://insights.kkvlabs.com/mcp` into Claude or ChatGPT, nothing to install.
+
+**Capabilities:**
+* Search Console performance, URL inspection and sitemaps
+* GA4 reports, realtime and AI assistant referral traffic
+* "Why did it drop?" analysis and client-ready reports across sites
+* Works in Claude (connectors directory), ChatGPT, Claude Code and other MCP clients
+
+**Pricing:** Free plan for 1 site. Paid plans for 10 or 50 sites.
+
+---
+
 ### [Bing Webmaster Tools MCP](https://fastmcp.me/MCP/Details/758/bing-webmaster-tools)
 
 **Features:** 40+ specialized tools for Bing SEO management.
